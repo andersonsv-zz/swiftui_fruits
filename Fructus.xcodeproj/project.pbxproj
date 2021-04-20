@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		750DC583262EEC3A00E0EAB7 /* FruitNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 750DC582262EEC3A00E0EAB7 /* FruitNutrientsView.swift */; };
 		758C22F5262DA3CD00BE866C /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 758C22F4262DA3CD00BE866C /* FruitModel.swift */; };
 		758C22FA262DA4DC00BE866C /* FruitData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 758C22F9262DA4DC00BE866C /* FruitData.swift */; };
 		758F1776262E206F00EBE461 /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 758F1775262E206F00EBE461 /* FruitRowView.swift */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		750DC582262EEC3A00E0EAB7 /* FruitNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientsView.swift; sourceTree = "<group>"; };
 		758C22F4262DA3CD00BE866C /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
 		758C22F9262DA4DC00BE866C /* FruitData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitData.swift; sourceTree = "<group>"; };
 		758F1775262E206F00EBE461 /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 				758F1775262E206F00EBE461 /* FruitRowView.swift */,
 				758F177D262E645000EBE461 /* FruitHeaderView.swift */,
 				758F1780262E667800EBE461 /* SourceLinkView.swift */,
+				750DC582262EEC3A00E0EAB7 /* FruitNutrientsView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 				758F1781262E667800EBE461 /* SourceLinkView.swift in Sources */,
 				75AE4D08262CEB9B00BABC42 /* FruitCardView.swift in Sources */,
 				758F1776262E206F00EBE461 /* FruitRowView.swift in Sources */,
+				750DC583262EEC3A00E0EAB7 /* FruitNutrientsView.swift in Sources */,
 				75AE4D0B262D020100BABC42 /* StartButtonView.swift in Sources */,
 				758F177B262E552400EBE461 /* FruitDetailView.swift in Sources */,
 				75AE4CF6262CDB4F00BABC42 /* ContentView.swift in Sources */,
